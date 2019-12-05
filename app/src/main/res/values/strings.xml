@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FlipCardAnimation</string>
+
+
+    <string name="card_front">Card Front</string>
+    <string name="card_back">Card Back</string>
+
+    <string name="fade">Fade Out / In  </string>
+    <string name="slide">Slide Out / In  </string>
+
+</resources>

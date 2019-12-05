@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <objectAnimator
+        android:duration="@integer/slide_up_animation"
+        android:propertyName="translationY"
+        android:repeatMode="reverse"
+        android:valueFrom="@integer/slide_up_distance_from_animation"
+        android:valueTo="@integer/slide_up_distance_to_animation" />
+
+</set>

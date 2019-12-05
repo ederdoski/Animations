@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="card_flip_animation">1000</integer>
+    <integer name="card_flip_half_animation">500</integer>
+
+    <integer name="fade_in_animation">300</integer>
+    <integer name="fade_out_animation">300</integer>
+
+    <integer name="slide_down_animation">400</integer>
+    <integer name="slide_up_animation">400</integer>
+
+    <integer name="slide_down_distance_to_animation">200</integer>
+    <integer name="slide_down_distance_from_animation">0</integer>
+
+    <integer name="slide_up_distance_from_animation">200</integer>
+    <integer name="slide_up_distance_to_animation">0</integer>
+
+</resources>
